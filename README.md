@@ -13,6 +13,12 @@ This repository contains code and resources for a project aimed at automating th
 - Libraries such as PyPDF2 and pdfrw for PDF processing
 - Selenium WebDriver for automating web-based form filling
 
+## Contribution :pencil2:
+
+To contribute to this repository follow our [Contributing
+Guide](https://github.com/ai-cfia/.github/blob/main/profile/CONTRIBUTING.md)
+rules and norms.
+
 ## Template propose by Louis
 
 To eventually kick start the project, we ask Louis to give us a template.
@@ -67,5 +73,3 @@ print_field_names(input_pdf_path)
 # Now let's fill the PDF
 fill_pdf(input_pdf_path, output_pdf_path, data_dict)
 ```
-
-Please refer to the individual directories for detailed information on each component of the project. Contributions are welcome!
